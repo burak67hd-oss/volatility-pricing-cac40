@@ -26,4 +26,4 @@ time series econometrics can improve financial pricing models.
 - matplotlib, scipy
 
 ## Status
-Project in progress.
+Project in progres
